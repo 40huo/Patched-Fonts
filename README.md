@@ -1,2 +1,4 @@
-# Operator-Mono-Nerd-Font
-Nerd font patch of Operator Mono
+# Patched Fonts
+- Nerd font patch of Operator Mono
+- Nerd font patch of SF Mono
+
